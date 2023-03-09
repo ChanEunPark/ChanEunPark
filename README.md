@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @ChanEunPark
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ChanEunPark/ChanEunPark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+           _  .-')                 .-')    .-') _      ('-.
+          ( \( -O )               ( OO ). (  OO) )    ( OO ).-.
+   .-----. ,------.   ,--.   ,--.(_)---\_)/     '._   / . --. / ,--.
+  '  .--./ |   /`. '   \  `.'  / /    _ | |'--...__)  | \-.  \  |  |.-')
+  |  |('-. |  /  | | .-')     /  \  :` `. '--.  .--'.-'-'  |  | |  | OO )
+ /_) |OO  )|  |_.' |(OO  \   /    '..`''.)   |  |    \| |_.'  | |  |`-' |
+ ||  |`-'| |  .  '.' |   /  /\_  .-._)   \   |  |     |  .-.  |(|  '---.'
+(_'  '--'\ |  |\  \  `-./  /.__) \       /   |  |     |  | |  | |      |
+   `-----' `--' '--'   `--'       `-----'    `--'     `--' `--' `------'
+```
